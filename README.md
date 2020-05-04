@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of the new implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/uoXPl49.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Twitter - Part I
 
